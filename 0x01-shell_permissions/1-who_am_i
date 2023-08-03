@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x get_current_username.sh
+whoami
